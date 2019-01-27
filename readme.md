@@ -1,4 +1,4 @@
-## Magic Squares
+## Magic Squares (C++ College Assignment)
 
 ###### Background:
 A *magic square of order n* is an *n* x *n* square array containing the integers 1, 2, 3, ..., *n*^2 
